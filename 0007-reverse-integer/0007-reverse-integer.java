@@ -1,6 +1,6 @@
 class Solution {
     public int reverse(int x) {
-        
+
        int b=0,DIG=0;
        while(x!=0){
         DIG=x%10;
