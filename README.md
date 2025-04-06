@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sanay960/training/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/sanay960/training/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sanay960/training/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/sanay960/training/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sanay960/training/tree/master/0070-climbing-stairs) |
 ## Bit Manipulation
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sanay960/training/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanay960/training/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
